@@ -162,6 +162,12 @@ Infrastructure plays an important role for developers to be able to build applic
   - [Twitter](https://twitter.com/KYVENetwork)
   - [Announcement](https://evmos.blog/decentralizing-blockchain-data-with-kyve-564acef3c806)
   - [Documentation]()
+- SubQuery
+  - [Website](https://subquery.network)
+  - [Twitter](https://twitter.com/subquerynetwork)
+  - [Discord (for support)](https://discord.com/invite/subquery)
+  - [Getting Started in Cosmos](https://academy.subquery.network/quickstart/quickstart_chains/cosmos.html)
+  - [Documentation Specific to Ethermint]()
 
 ### Oracles
 
